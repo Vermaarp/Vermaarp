@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vermaarp
-- 👀 I’m interested in ... Nothing
+- 👀 I’m interested in ... Web development
 - 🌱 I’m currently learning ... Frontend Devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://linktr.ee/Vermaarp
