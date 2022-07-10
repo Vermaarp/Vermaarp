@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vermaarp
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... Frontend Devlopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://linktr.ee/Vermaarp
+- 🧑🏻‍💻 Hi, Arpit Over Here
+- 👀 I’m interested in: Full-Stack Developemt 
+- 🌱 I’m currently learning: Frontend Devlopment (Right Now on JS)
+- 📫 Yes I'm on LinkedIn too: linkedin.com/in/arpitvermma/
+- 🐣 And Twitter too: twitter.com/Verma_arp
 
 <!---
 Vermaarp/Vermaarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
