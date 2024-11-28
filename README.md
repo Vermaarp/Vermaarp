@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![](https://visitcount.itsvg.in/api?id=sswadi&icon=0&color=1)](https://visitcount.itsvg.in)
