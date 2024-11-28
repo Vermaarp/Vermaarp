@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![](https://visitcount.itsvg.in/api?id=sswadi&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vermaarp&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
