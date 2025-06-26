@@ -2,7 +2,7 @@
 
 ```ts
 let myInfo = {
-  name: "Arpit Verma",
+  name: "Arpit Vermma",
   about_me: {
     role: "I am a full-time independent developer.",
     catchphrase: "I don't always code, but when I do, it's at night."
