@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-
+```ts
 let myInfo = {
   name: "Arpit Verma",
   about_me: {
@@ -31,6 +30,10 @@ let myInfo = {
     "I built an entire landing page at 3 AM just because a font looked 'off'—design OCD is real!"
   ]
 };
+```
+
+
+
 
 
 <!--
