@@ -42,7 +42,7 @@ let myInfo = {
 };
 ```
 
-![Profile Views](https://profile-views.vermaarp.workers.dev/badge?user=Vermaarp&style=for-the-badge&color=2ea043)
+![Profile Views](https://profile-views.vermaarp.workers.dev/badge?user=Vermaarp&color=blue)
 
 
 <!--
