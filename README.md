@@ -42,7 +42,7 @@ let myInfo = {
 };
 ```
 
-![Profile Views](https://visitcount.itsvg.in/api?id=vermaarp&label=Profile%20Views&icon=0&pretty=false)
+![Profile Views](https://profile-views.vermaarp.workers.dev/badge?user=Vermaarp&style=for-the-badge&color=2ea043)
 
 
 <!--
