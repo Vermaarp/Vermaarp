@@ -42,6 +42,7 @@ let myInfo = {
 };
 ```
 
+![Profile Views](https://visitcount.itsvg.in/api?id=vermaarp&label=Profile%20Views&icon=0&pretty=false)
 
 
 <!--
@@ -60,4 +61,3 @@ Here are some ideas to get you started:
 -->
 
 
-https://visitcount.itsvg.in/api?id=vermaarp&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in
