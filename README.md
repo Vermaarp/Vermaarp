@@ -41,9 +41,7 @@ let myInfo = {
   ]
 };
 ```
-![Profile Views](https://profile-views.vermaarp.workers.dev/badge?user=Vermaarp&color=blue)
-
-
+![Profile Views](https://profile-views.vermaarp.deno.net/badge/vermaarp?color=blue)
 
 <!--
 **Vermaarp/Vermaarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
